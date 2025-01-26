@@ -1,1 +1,1 @@
-# Anomaly-Detection
+Finding the abnormal activites on the cyclone preheater process, an industrial process for cement manufacturing. The dataset contains the record of every 5 minutes changes in temperature and pressure of inlet and outlet for 3 years.
